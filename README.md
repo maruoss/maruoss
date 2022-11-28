@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maruoss
 - 👀 I’m interested in Machine Learning, AI, Data Science, Statistics, Finance and Computer Science!
-- 🌱 I’m currently working on my Master Thesis.
-- 💞️ I’m looking for a challenging position after I graduate.
+- 🌱 I’m currently working on my Master Thesis "Option Return Predictability with Machine Learning".
+- 💞️ I’m looking for a challenging position after I graduate in February 2023.
 
 <!---
 maruoss/maruoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
